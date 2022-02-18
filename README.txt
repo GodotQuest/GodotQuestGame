@@ -1,6 +1,3 @@
-# GodotQuestGame
-Just a repository for easy tracking of progress on this quick project.
-
 Project Proposal
 
 Make a simple Point-n-Click 2D RPG in Godot.
